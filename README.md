@@ -1,6 +1,6 @@
 # Opensource Cooking
 
-[https://demonwarext.github.io/](https://demonwarext.github.io/)
+[https://opencooking.github.io/](https://opencooking.github.io/)
 
 This is my simple cookbook based on Jekyll.
 It was built out of frustration of the internet when it comes to cooking ressources, because let's be honest, we don't all have time to read through these huge food blogs with so little actually relevant information.
