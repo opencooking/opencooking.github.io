@@ -14,6 +14,7 @@ It was built out of frustration of the internet when it comes to cooking ressour
 
 - All recipes are to be added into the yaml files (_data/*.yml) and follow the standard schema
 - Language of this repository is German, fork it if you want to translate
+- Photos should be kept small and to a minimum, it's not a food blog
 
 ### Tags
 
@@ -47,6 +48,9 @@ name_of_cocktail:
 name_of_recipe:
   Name: Name of Recipe
   Link: /recipes/british/name_of_recipe
+  Photo:
+    - Photo1.jpg
+    - Photo2.png
   Overview:
     # Time it takes to cook
     Time: 2 Stunden
@@ -64,7 +68,7 @@ name_of_recipe:
 ## About the site
 
 Most jekyll files are generated automatically
-The most important thing is to get the YAML files sorted correctly
+The most important thing is to get the YAML files sorted correctly, and photos into the appropriate folders
 Improvements to the templates are definitelly welcome and needed
 
 ## Special Thanks
