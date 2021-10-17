@@ -9,7 +9,7 @@ parent: BBQ
 
 # {{ recipe.Name }}
 :exclamation:Zuerst herstellen: [BBQ Sauce Süss](/bbq/bbq_sauce_suess/):exclamation:
-{% include recipe.liquid %}
+{% include bbq_gallery.liquid %}
 ## Zutaten
 {% for ingredient in recipe.Ingredients.Rub -%}
 - {{ ingredient }}
