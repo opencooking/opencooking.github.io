@@ -6,6 +6,9 @@ parent: BBQ
 ---
 {% assign recipe = site.data.bbq.spareribs_321 %}
 
+
+# {{ recipe.Name }}
+:exclamation:Zuerst herstellen: [BBQ Sauce Süss](/bbq/bbq_sauce_suess/):exclamation:
 {% if recipe.Photo -%}
 {% include gallery_style.liquid %}
 <ul class="image-gallery">
@@ -14,9 +17,6 @@ parent: BBQ
     {% endfor %}
 </ul>
 {% endif -%}
-
-# {{ recipe.Name }}
-:exclamation:Zuerst herstellen: [BBQ Sauce Süss](/bbq/bbq_sauce_suess/):exclamation:
 ## Zutaten
 {% for ingredient in recipe.Ingredients.Rub -%}
 - {{ ingredient }}
