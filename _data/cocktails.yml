@@ -294,3 +294,19 @@ sugar_sirup:
   Ingredients:
     - 500g Zucker
     - 340g Kochendes Wasser
+cava_cocktail_no1:
+  Name: Cava Cocktail No 1
+  Link: /cocktails/cava_cocktail_no1
+  Rating: 3
+  Tags:
+    - Cava
+    - Vermouth
+  Worksteps:
+    - Vermouth, Port und Sirup mischen
+    - In Glas geben
+    - Auffüllen mit Prosecco / Cava
+  Ingredients:
+    - 7.5 ml Vermouth Rosso
+    - 7.5 ml Port Wine
+    - 7.5 ml Sirup z.B. Maracuja
+    - Prosecco / Cava
