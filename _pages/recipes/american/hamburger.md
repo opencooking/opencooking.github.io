@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Hamburger
-permalink: /recipes/german/hamburger
-parent: Deutsch
+permalink: /recipes/american/hamburger
+parent: Amerikanisch
 grand_parent: Recipes
 ---
 {% assign recipe = site.data.recipes.hamburger %}

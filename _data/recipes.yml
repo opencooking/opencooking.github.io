@@ -292,8 +292,8 @@ salzburger_vegi:
     - 2 Esslöffel Butter
 hamburger:
   Name: Hamburger
-  Link: /recipes/german/hamburger
-  Region: Deutsch
+  Link: /recipes/american/hamburger
+  Region: Amerikanisch
   Tags:
     - Grill
   Overview:
