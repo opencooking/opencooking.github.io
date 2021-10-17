@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Spanische Tortilla
+title: Spanische Zwiebel Tortilla
 permalink: /recipes/spanish/tortilla
 parent: Spanisch
 grand_parent: Recipes

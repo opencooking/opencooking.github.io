@@ -6,6 +6,7 @@ gyoza_vegetarian:
   Tags:
     - Chinesisch
     - Vegetarisch
+    - Gyoza
   Worksteps:
     - Shitake, Karotte, und Frühlingszwiebeln zerkleinern (im mixer)
     - Mischen mit Ei, Mirin, Ingwer, Sake und Soya Sauce
@@ -29,6 +30,7 @@ gyoza_shrimp_meat:
   Region: Asiatisch
   Tags:
     - Chinesisch
+    - Gyoza
   Worksteps:
     - Shrimp und Frühlingszwiebeln im Mixer zerkleinern
     - Vermengen mit Rindfleisch
@@ -47,11 +49,13 @@ gyoza_shrimp_meat:
     - Fertiger Gyoza Teig (aus asia Store)
 
 spanish_tortilla:
-  Name: Spanische Tortilla
+  Name: Spanische Zwiebel Tortilla
   Link: /recipes/spanish/tortilla
   Region: Spanisch
   Tags:
     - Vegetarisch
+    - Zwiebeln
+    - Tortilla
   Worksteps:
     - Kartoffeln schälen, in scheiben schneiden und mit Öl bedeckt anbraten (Kleine - Mittlere Stuffe)
     - Zwiebeln klein schneiden und anbraten
@@ -81,6 +85,7 @@ adana_kebab:
   Tags:
     - Türkisch
     - Grill
+    - Kebab
   Worksteps:
     - Alles vermengen
     - Kaltstellen für mindestens 30min
@@ -104,6 +109,7 @@ tantanmen_ramen:
   Tags:
     - Japanisch
     - Suppe
+    - Ramen
   Worksteps:
     - Bouillon mit Dashi und Sojasauce aufkochen
     - Miso und Reismilch einrühren und nochmal aufkochen
@@ -138,6 +144,7 @@ dashi:
   Tags:
     - Japanisch
     - Suppe
+    - Ramen
   Worksteps:
     - Algen einschneiden
     - Algen mit Wasser aufkochen
@@ -188,6 +195,7 @@ vegi_pie:
     - Vegetarisch
     - Britisch
     - Slow Cooking
+    - Pie
   Overview:
     Time: 2 Stunden
     Serves: 6
