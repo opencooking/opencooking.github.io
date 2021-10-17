@@ -290,3 +290,32 @@ salzburger_vegi:
     - 1 Teelöffel Zucker
     - 250g Pasta
     - 2 Esslöffel Butter
+hamburger:
+  Name: Hamburger
+  Link: /recipes/german/hamburger
+  Region: Deutsch
+  Tags:
+    - Grill
+  Overview:
+    Time: 30 min + 30 min ruhen lassen
+    Serves: 5
+  Worksteps:
+    - Zwiebeln mit grober küchenreibe zerreiben
+    - Zwiebeln mit Eier, Gehaktem, Paniermel vermengen
+    - Senf, Parmesan Muskatnuss und Speck dazugeben
+    - Nach belieben würzen
+    - Kaltstellen bis gebraucht (mindestens 30min)
+    - Patties formen
+    - Grillen / Kochen
+  Ingredients:
+    - 1kg Gehacktes, Schwein oder Rind
+    - 2 Zwiebel
+    - 1 Eier
+    - 100g Paniermehl
+    - 1 esslöffel Dijon Senf
+    - 100g Parmesan Käse, gerieben
+    - Priese Muskatnuss
+    - 100 Speck streifen, kleingeschnitten
+    - Gewürze
+
+
