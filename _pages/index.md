@@ -29,12 +29,3 @@ nav_exclude: true
 - [{{ recipe.Name }}]({{ recipe.Link }})
 {% endfor -%}
 {% endfor -%}
-  
-
-
-{% assign cocktail_by_name = site.data.cocktails | sort %}
-<table>
-{% tablerow product in cocktail_by_name %}
-  {{ product.Name }}
-{% endtablerow %}
-</table>
