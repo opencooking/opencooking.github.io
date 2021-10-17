@@ -8,7 +8,7 @@
     {% endfor %}
 </ul>
 {% endif -%}
-
+{% include css_gallery.liquid %}
 {% if recipe.Overview -%}
 {% if recipe.Overview.Time -%}
 :hourglass: Kochzeit: {{recipe.Overview.Time}}
