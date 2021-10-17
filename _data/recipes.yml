@@ -84,6 +84,9 @@ adana_kebab:
   Name: Adana Kebab
   Link: /recipes/turkish/adana_kebab
   Region: Türkisch
+  Photo:
+    - adana_cooked.jpg
+    - adana_raw.jpg
   Tags:
     - Türkisch
     - Grill
@@ -108,6 +111,8 @@ tantanmen_ramen:
   Name: Tantanmen Ramen
   Link: /recipes/asian/tantanmen_ramen
   Region: Asiatisch
+  Photo:
+    - tantanmen_ramen.jpg
   Tags:
     - Japanisch
     - Suppe
@@ -194,6 +199,8 @@ vegi_pie:
   Name: Pilz und Ale Pie
   Link: /recipes/british/vegi_pie
   Region: Britisch
+  Photo:
+    - vegi_pie.jpg
   Tags:
     - Vegetarisch
     - Britisch
