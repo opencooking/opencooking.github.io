@@ -110,6 +110,7 @@ tantanmen_ramen:
     - Japanisch
     - Suppe
     - Ramen
+    - Vegetarisch
   Worksteps:
     - Bouillon mit Dashi und Sojasauce aufkochen
     - Miso und Reismilch einrühren und nochmal aufkochen
@@ -125,7 +126,7 @@ tantanmen_ramen:
     - Servieren
   Ingredients:
     - 3.5 dl Gemüsebouillon
-    - 0.5 dl [Dashi](/recipes/asian/dashi/)
+    - 0.5 dl [Dashi](/recipes/asian/dashi/) (ohne Bonitofloken für Vegi)
     - 4 EL Sojasauce
     - 1 TL Miso Paste (Dunkel)
     - 2 dl Reismilch
