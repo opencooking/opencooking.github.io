@@ -52,6 +52,8 @@ spanish_tortilla:
   Name: Spanische Zwiebel Tortilla
   Link: /recipes/spanish/tortilla
   Region: Spanisch
+  Photo:
+    - onion_tortilla.jpg
   Tags:
     - Vegetarisch
     - Zwiebeln

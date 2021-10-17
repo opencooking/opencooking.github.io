@@ -1,5 +1,14 @@
 # {{ recipe.Name }}
 
+{% if recipe.Photo -%}
+{% include gallery_style.liquid %}
+<ul class="image-gallery">
+    {% for pic in recipe.Photo %}
+        <li><a href="/assets/images/recipes/{{ pic }}" title="{{ pic }}" class="lightbox-image gallery"><img src="/assets/images/recipes/{{ pic }}" alt="{{ pic }}" title="{{ pic }}"><span>{{ pic }}</span></a></li>
+    {% endfor %}
+</ul>
+{% endif -%}
+
 {% if recipe.Overview -%}
 {% if recipe.Overview.Time -%}
 :hourglass: Kochzeit: {{recipe.Overview.Time}}
