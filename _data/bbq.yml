@@ -1,6 +1,10 @@
 ---
 spareribs_321:
   Name: Spare Ribs 321
+  Photo:
+    - ribs_done.jpg
+    - ribs_cooking.jpg
+    - ribs_raw.jpg
   Worksteps:
     Rub:
       - Mische alle gewürze zusammen
