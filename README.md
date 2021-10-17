@@ -66,3 +66,6 @@ name_of_recipe:
 Most jekyll files are generated automatically
 The most important thing is to get the YAML files sorted correctly
 Improvements to the templates are definitelly welcome and needed
+
+## Special Thanks
+Image Gallery from [hdmnfarrell](https://dmnfarrell.github.io/software/jekyll-galleries)
