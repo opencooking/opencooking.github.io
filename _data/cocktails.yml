@@ -310,3 +310,17 @@ cava_cocktail_no1:
     - 7.5 ml Port Wine
     - 7.5 ml Sirup z.B. Maracuja
     - Prosecco / Cava
+chai_coffee:
+  Name: Chai Coffee
+  Link: /cocktails/chai_coffee
+  Rating: 3
+  Tags:
+    - Kaffee
+  Worksteps:
+    - Kaffee Likör in ein glas geben und mit eis auffüllen
+    - Chai und Vodka / Rum vermischen und darüber giessen
+  Ingredients:
+    - 75 ml chai milch
+    - 50 ml vodka / weisser rum
+    - 25 ml kaffee likör
+    - Eis
