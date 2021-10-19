@@ -313,7 +313,7 @@ cava_cocktail_no1:
 chai_coffee:
   Name: Chai Coffee
   Link: /cocktails/chai_coffee
-  Rating: 3
+  #Rating: 3
   Tags:
     - Kaffee
   Worksteps:
@@ -327,7 +327,7 @@ chai_coffee:
 bushwacker:
   Name: Bushwacker
   Link: /cocktails/bushwacker
-  Rating: 3
+  #Rating: 3
   Tags:
     - Kaffee
     - Rum
