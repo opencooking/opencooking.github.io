@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Coffee Liqueur
-permalink: /tags/cocktails/Coffee Liqueur/
+title: Kaffee Likör
+permalink: /tags/cocktails/Kaffee Likör/
 parent: Cocktails Tags
 grand_parent: Tags
 ---
-{% assign tag = "Coffee Liqueur" %}
+{% assign tag = "Kaffee Likör" %}
 # {{ tag }}
 {% include cocktail_tags.liquid %}
