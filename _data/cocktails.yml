@@ -324,3 +324,22 @@ chai_coffee:
     - 50 ml vodka / weisser rum
     - 25 ml kaffee likör
     - Eis
+bushwacker:
+  Name: Bushwacker
+  Link: /cocktails/bushwacker
+  Rating: 3
+  Tags:
+    - Kaffee
+    - Rum
+    - Blend
+  Worksteps:
+    - Alles ingredienzen zusammengeben
+    - Blenden bis smooth
+    - Mit Strohalm in einem Hurican oder Longdrink Glas Servieren
+  Ingredients:
+    - 60 ml Rum (Weiss oder Braun)
+    - 60 ml Kaffee Likör
+    - 60 ml Creme de cacao
+    - 60 ml Cream of coconut (oder 30ml Kokos Sirup)
+    - 60 ml Milch
+    - Eis
