@@ -315,7 +315,6 @@ chai_coffee:
   Link: /cocktails/chai_coffee
   #Rating: 3
   Tags:
-    - Kaffee
     - Kaffee Likör
   Worksteps:
     - Kaffee Likör in ein glas geben und mit eis auffüllen
@@ -330,7 +329,6 @@ bushwacker:
   Link: /cocktails/bushwacker
   #Rating: 3
   Tags:
-    - Kaffee
     - Kaffee Likör
     - Rum
     - Blend
