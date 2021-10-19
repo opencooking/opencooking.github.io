@@ -65,7 +65,7 @@ dirty_banana:
   Tags:
     - Blend
     - Rum
-    - Coffee Liqueur
+    - Kaffee Likör
   Worksteps:
     - Alle Zutaten ausser kaffee liqueur in Blender
     - Blend!
@@ -138,7 +138,7 @@ white_russian:
   Rating: 4
   Tags:
     - Vodka
-    - Coffee Liqueur
+    - Kaffee Likör
   Worksteps:
     - Tumbler mit Eis füllen
     - Vodka und Kaffeelikör in Tumbler geben
@@ -316,6 +316,7 @@ chai_coffee:
   #Rating: 3
   Tags:
     - Kaffee
+    - Kaffee Likör
   Worksteps:
     - Kaffee Likör in ein glas geben und mit eis auffüllen
     - Chai und Vodka / Rum vermischen und darüber giessen
@@ -330,6 +331,7 @@ bushwacker:
   #Rating: 3
   Tags:
     - Kaffee
+    - Kaffee Likör
     - Rum
     - Blend
   Worksteps:
@@ -349,6 +351,7 @@ carajillo_cocktail:
   #Rating: 3
   Tags:
     - Kaffee
+    - Kaffee Likör
     - Rum
     - Blend
   Worksteps:
