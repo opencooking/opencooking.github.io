@@ -343,3 +343,24 @@ bushwacker:
     - 60 ml Cream of coconut (oder 30ml Kokos Sirup)
     - 60 ml Milch
     - Eis
+carajillo_cocktail:
+  Name: Carajillo Cocktail
+  Link: /cocktails/carajillo_cocktail
+  #Rating: 3
+  Tags:
+    - Kaffee
+    - Rum
+    - Blend
+  Worksteps:
+    - Kaffe aufbrühen und leicht kühlen lassen wärend der Zubereitung
+    - Glasrand mit Zucker beschichten falls gewünscht
+    - Kaffe, Kaffee Likör, Triple Sec und Rum in Glas geben und umrühren
+    - Schlagsahne aufsetzen
+  Ingredients:
+    - 90 ml Kaffee
+    - 60 ml Kaffee Likör
+    - 15ml Triple Sec
+    - 15ml Rum (Weiss oder Schwat)
+    - 1 Grosser Esslöffel Schlagsahne (gesüsst)
+    - Zucker und Zitrone(n Saft) für Glasrand (falls gewollt)
+
