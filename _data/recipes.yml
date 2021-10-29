@@ -319,4 +319,19 @@ hamburger:
     - 100 Speck streifen, kleingeschnitten
     - Gewürze
 
-
+croquetas_espinacas:
+  Name: Spinat Croquetas
+  Link: /recipes/spanish/croquetas_espinacas
+  Region: Spanisch
+  Tags:
+    - Vegetarisch
+    - Spinat
+    - Croquetas
+  Worksteps:
+    - TBD
+  Ingredients:
+    - 250 ml Bechamel Sauce
+    - 500g frischer Blattspinat
+    - 1 Hartgekochtes Ei
+    - 3 Eier verquirlt
+    - 3 Tassen Paniermehl
