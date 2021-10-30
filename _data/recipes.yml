@@ -400,24 +400,28 @@ croquetas_jamon:
     - Croquetas
     - Spanisch
   Worksteps:
-    - Blattspinat und Ei klein hacken
-    - Bechamel Sauce, Blattspinat und Ei vermengen
-    - Nach Belieben würzen
-    - Mischung 4 minuten Kochen
-    - Für eine Stunde im Gefrierschrank kühlen
-    - Kroketten formen, mit verquirletm Ei bestreichen und Panieren
-    - Fritieren oder in Pfanne anbraten
+    - Butter bei mittlerer Hitze schelzen
+    - Zwiebeln beigeben und anschwitzen
+    - Jamón hinzugeben und maximal 1 Minute anbraten
+    - Mehl beigeben und verrühren
+    - Milch schrittweise hinzugeben verrühren bis keine Klümpchen mehr existieren
+    - Fertige Mischung kaltstellen (1h Gefrierer oder 4h Kühlschrank)
+    - Kroketten formen mit der gekühlen mischung
+    - Kroketten mit Mehl bestäuben
+    - Kroketten in Ei wenden
+    - Kroketten Panieren
+    - Kroketten in Olivenöl anbraten
   Ingredients:
-    - 4 tbsp unsalted butter (60 g)
-    - ¼ cup olive oil (60 ml)
-    - 1 scant cup flour (just under one cup — 120 g)
-    - 1 medium onion very finely diced
-    - ¼ gallon whole milk at room temperature (1 liter)
-    - 1 pinch nutmeg
-    - ½ pound jamón serrano diced into small pieces (225 g)
-    - flour for breading
-    - 2 beaten eggs
-    - bread crumbs for breading (try Panko for non-traditional extra crispy croquettes!)
+    - 60g Butter
+    - 120g Weizenmehl
+    - 1 Mittlere Zwiebel fein gehackt
+    - 1 Liter Milch (oder nach bedarf)
+    - 1 Priese Macis
+    - 225g Jamón Serrano in Würfel geschnitten
+    - Mehl zum Panieren
+    - 2 Eier verquirlt zum Panieren
+    - Paniermehl zum Panieren
+    - 60ml Olivenöl zum Anbraten
   References:
     - "[Spanish Sabores](https://spanishsabores.com/croquetas-de-jamon-serrano-recipe-ham-croquettes/)"
 
@@ -430,13 +434,10 @@ bechamel:
     - Croquetas
     - Spanisch
   Worksteps:
-    - Blattspinat und Ei klein hacken
-    - Bechamel Sauce, Blattspinat und Ei vermengen
-    - Nach Belieben würzen
-    - Mischung 4 minuten Kochen
-    - Für eine Stunde im Gefrierschrank kühlen
-    - Kroketten formen, mit verquirletm Ei bestreichen und Panieren
-    - Fritieren oder in Pfanne anbraten
+    - Butter bei mittlerer Hitze schelzen
+    - Mehl in Butter verrühren
+    - Milch schrittweise hinzugeben verrühren bis keine Klümpchen mehr existieren
+    - Bechamel Sauce würzen mit Macis und Salz
   Ingredients:
     - 50 g Butter
     - 50 g Weizenmehl
