@@ -353,6 +353,7 @@ albondigas:
     - Rindfleisch
   Worksteps:
     - TBD
+    - Dazu [Ancho Chili Sauce](/recipes/spanish/ancho_chile_sauce)
   Ingredients:
     - 1 Poblano Chili
     - 1 Kleine Zwiebel, gekackt
@@ -367,6 +368,7 @@ albondigas:
     - 900g Hackfleisch, Rind
   References:
     - "[bon appetit](https://www.bonappetit.com/recipe/albondigas-in-red-chile-sauce)"
+    - "[Ancho Chili Sauce](/recipes/spanish/ancho_chile_sauce)"
 
 ancho_chile_sauce:
   Name: Ancho Chili Sauce
