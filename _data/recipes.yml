@@ -418,3 +418,23 @@ croquetas_jamon:
     - flour for breading
     - 2 beaten eggs
     - bread crumbs for breading (try Panko for non-traditional extra crispy croquettes!)
+
+bechamel:
+  Name: Bechamel Sauce
+  Link: /recipes/spanish/bechamel
+  Region: Spanisch
+  Tags:
+    - Croquetas
+    - Spanisch
+  Worksteps:
+    - Blattspinat und Ei klein hacken
+    - Bechamel Sauce, Blattspinat und Ei vermengen
+    - Nach Belieben würzen
+    - Mischung 4 minuten Kochen
+    - Für eine Stunde im Gefrierschrank kühlen
+    - Kroketten formen, mit verquirletm Ei bestreichen und Panieren
+    - Fritieren oder in Pfanne anbraten
+  Ingredients:
+    - 50 g Butter
+    - 50 g Weizenmehl
+    - 600 ml Vollmilch
