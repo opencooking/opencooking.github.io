@@ -396,6 +396,9 @@ croquetas_jamon:
   Name: Croquetas de Jamon
   Link: /recipes/spanish/croquetas_jamon
   Region: Spanisch
+  Overview:
+    Time: 4 Stunden
+    Serves: 4
   Tags:
     - Croquetas
     - Spanisch
