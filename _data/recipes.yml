@@ -391,3 +391,30 @@ ancho_chile_sauce:
     - 0.5 Tassen Sauerrahm
     - 2 Esslöffel Limettensaft
     - Cotija oder Feta Käse zerbröckelt
+
+croquetas_jamon:
+  Name: Croquetas de Jamon
+  Link: /recipes/spanish/croquetas_jamon
+  Region: Spanisch
+  Tags:
+    - Croquetas
+    - Spanisch
+  Worksteps:
+    - Blattspinat und Ei klein hacken
+    - Bechamel Sauce, Blattspinat und Ei vermengen
+    - Nach Belieben würzen
+    - Mischung 4 minuten Kochen
+    - Für eine Stunde im Gefrierschrank kühlen
+    - Kroketten formen, mit verquirletm Ei bestreichen und Panieren
+    - Fritieren oder in Pfanne anbraten
+  Ingredients:
+    - 4 tbsp unsalted butter (60 g)
+    - ¼ cup olive oil (60 ml)
+    - 1 scant cup flour (just under one cup — 120 g)
+    - 1 medium onion very finely diced
+    - ¼ gallon whole milk at room temperature (1 liter)
+    - 1 pinch nutmeg
+    - ½ pound jamón serrano diced into small pieces (225 g)
+    - flour for breading
+    - 2 beaten eggs
+    - bread crumbs for breading (try Panko for non-traditional extra crispy croquettes!)
