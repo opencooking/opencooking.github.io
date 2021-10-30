@@ -58,6 +58,7 @@ spanish_tortilla:
     - Vegetarisch
     - Zwiebeln
     - Tortilla
+    - Spanisch
   Worksteps:
     - Kartoffeln schälen, in scheiben schneiden und mit Öl bedeckt anbraten (Kleine - Mittlere Stuffe)
     - Zwiebeln klein schneiden und anbraten
@@ -121,7 +122,7 @@ tantanmen_ramen:
   Worksteps:
     - Bouillon mit Dashi und Sojasauce aufkochen
     - Miso und Reismilch einrühren und nochmal aufkochen
-    - Nach belieben Chilli für schärfe
+    - Nach belieben Chili für schärfe
     - Hack mit ein wenig Öl anbraten
     - Sojasauce und Mirin zum ablöschen benutzen
     - Pak Choi waschen und in salzwasser dämpfen
@@ -327,6 +328,7 @@ croquetas_espinacas:
     - Vegetarisch
     - Spinat
     - Croquetas
+    - Spanisch
   Worksteps:
     - Blattspinat und Ei klein hacken
     - Bechamel Sauce, Blattspinat und Ei vermengen
@@ -347,22 +349,43 @@ albondigas:
   Link: /recipes/spanish/albondigas
   Region: Spanisch
   Tags:
-    - Vegetarisch
-    - Spinat
-    - Croquetas
+    - Spanisch
+    - Rindfleisch
   Worksteps:
-    - Blattspinat und Ei klein hacken
-    - Bechamel Sauce, Blattspinat und Ei vermengen
-    - Nach Belieben würzen
-    - Mischung 4 minuten Kochen
-    - Für eine Stunde im Gefrierschrank kühlen
-    - Kroketten formen, mit verquirletm Ei bestreichen und Panieren
-    - Fritieren oder in Pfanne anbraten
+    - TBD
   Ingredients:
-    - 250 ml Bechamel Sauce
-    - 500g frischer Blattspinat
-    - 1 Hartgekochtes Ei
-    - 3 Eier verquirlt
-    - 3 Tassen Paniermehl
+    - 1 Poblano Chili
+    - 1 Kleine Zwiebel, gekackt
+    - 2 Knoblauch Zehen
+    - 0.5 Tassen (gestopft) Ruccola Blätter
+    - 0.5 Tassen (gestopft) Koriander Blätter mit Stiel
+    - 0.5 Tassen zerkrümelte Tortilla Chips
+    - 0.25 Tassen Milch
+    - 2 Grosse Eier
+    - 110g Cotija Käse (Mexikanisch) oder Feta gerieben
+    - Salz und Pfeffer
+    - 900g Hackfleisch, Rind
   References:
     - "[bon appetit](https://www.bonappetit.com/recipe/albondigas-in-red-chile-sauce)"
+
+ancho_chile_sauce:
+  Name: Ancho Chili Sauce
+  Link: /recipes/spanish/ancho_chile_sauce
+  Region: Spanisch
+  Tags:
+    - Spanisch
+    - Sauce
+  Worksteps:
+    - TBD
+  Ingredients:
+    - 4 Getrockente Ancho Chilies, entkernt
+    - 1 Kleine Zwiebel, gekackt
+    - 2 Knoblauch Zehen
+    - 0.5 Teelöffel gemahlener Kreuzkümmel
+    - 2 Tassen (oder mehr) Bouillion
+    - 2 Esslöffel Olivenöl
+    - 1–2 Esslöffel Zucker
+    - Salz und Pfeffer
+    - 0.5 Tassen Sauerrahm
+    - 2 Esslöffel Limettensaft
+    - Cotija oder Feta Käse zerbröckelt
