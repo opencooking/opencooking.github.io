@@ -428,7 +428,6 @@ croquetas_jamon:
   References:
     - "[Spanish Sabores](https://spanishsabores.com/croquetas-de-jamon-serrano-recipe-ham-croquettes/)"
 
-
 bechamel:
   Name: Bechamel Sauce
   Link: /recipes/spanish/bechamel
@@ -447,6 +446,7 @@ bechamel:
     - 600 ml Vollmilch
   References:
     - "[Directo al paladar](https://www.directoalpaladar.com/curso-de-cocina/salsa-bechamel-receta-definitiva-siempre-te-quede-perfecta)"
+
 chorizo_tinto:
   Name: Chorizo in Rotwein
   Link: /recipes/spanish/chorizo_tinto
