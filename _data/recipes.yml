@@ -432,6 +432,9 @@ bechamel:
   Name: Bechamel Sauce
   Link: /recipes/spanish/bechamel
   Region: Spanisch
+  Overview:
+    Time: 30 Minuten
+    Serves: 2 (als Tapas 4)
   Tags:
     - Croquetas
     - Spanisch
@@ -467,5 +470,3 @@ chorizo_tinto:
     - 1 Knoblauchzehe
     - 2 Loorbeerblätter Frisch
     - Brot zum Servieren
-  References:
-    - "[Directo al paladar](https://www.directoalpaladar.com/curso-de-cocina/salsa-bechamel-receta-definitiva-siempre-te-quede-perfecta)"
