@@ -506,3 +506,30 @@ bulgogi:
     - 2 Frühlingszwiebeln, in feine scheiben geschnitten
     - 1 Teelöffel Geröstete Sesamkerne
 
+ssamjang:
+  Name: Ssamjang
+  Link: /recipes/korean/ssamjang
+  Region: Koreanisch
+  Overview:
+    Time: 24h Einwirken, 30min herstellen
+    Serves: 4
+  Tags:
+    - Koreanisch
+    - Vegetarianisch
+    - Sauce
+  Worksteps:
+    - Doenjang, Gochujang, Honig, Knoblauch und Sesamöl vermengen
+    - Frühlingszwiebel in feine Ringe schneiden und dazu geben
+    - Zwiebel fein Hacken und beigeben
+    - Masse nochmals vermengen und dann mit Sesam bestreuen
+    - Als beilage zu BBQ oder Bulgogi
+  Ingredients:
+    - 3 Esslöffel Doenjang
+    - 1 Esslöffel Gochujang
+    - 2 Teelöffel Honig
+    - 1 Teelöffel Geröstetes Sesamöl
+    - 1 Frühlingszwiebel
+    - 1 Knoblauchzehe, gepresst
+    - 1 Zwiebel
+    - 1 Teelöffel Geröstete Sesamsamen
+    - Wasser bei Bedarf
