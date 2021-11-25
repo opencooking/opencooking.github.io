@@ -320,29 +320,31 @@ hamburger:
     - 100 Speck streifen, kleingeschnitten
     - Gewürze
 
-croquetas_espinacas:
-  Name: Spinat Croquetas
-  Link: /recipes/spanish/croquetas_espinacas
-  Region: Spanisch
-  Tags:
-    - Vegetarisch
-    - Spinat
-    - Croquetas
-    - Spanisch
-  Worksteps:
-    - Blattspinat und Ei klein hacken
-    - Bechamel Sauce, Blattspinat und Ei vermengen
-    - Nach Belieben würzen
-    - Mischung 4 minuten Kochen
-    - Für eine Stunde im Gefrierschrank kühlen
-    - Kroketten formen, mit verquirletm Ei bestreichen und Panieren
-    - Fritieren oder in Pfanne anbraten
-  Ingredients:
-    - 250 ml Bechamel Sauce
-    - 500g frischer Blattspinat
-    - 1 Hartgekochtes Ei
-    - 3 Eier verquirlt
-    - 3 Tassen Paniermehl
+
+#croquetas_espinacas:
+#  Name: Spinat Croquetas
+#  Link: /recipes/spanish/croquetas_espinacas
+#  Region: Spanisch
+#  Tags:
+#    - Vegetarisch
+#    - Spinat
+#    - Croquetas
+#    - Spanisch
+#  Worksteps:
+#    - Blattspinat und Ei klein hacken
+#    - Bechamel Sauce, Blattspinat und Ei vermengen
+#    - Nach Belieben würzen
+#    - Mischung 4 minuten Kochen
+#    - Für eine Stunde im Gefrierschrank kühlen
+#    - Kroketten formen, mit verquirletm Ei bestreichen und Panieren
+#    - Fritieren oder in Pfanne anbraten
+#  Ingredients:
+#    - 250 ml Bechamel Sauce
+#    - 500g frischer Blattspinat
+#    - 1 Hartgekochtes Ei
+#    - 3 Eier verquirlt
+#    - 3 Tassen Paniermehl
+
 
 albondigas:
   Name: Albóndigas
@@ -470,3 +472,26 @@ chorizo_tinto:
     - 1 Knoblauchzehe
     - 2 Loorbeerblätter Frisch
     - Brot zum Servieren
+
+
+bulgogi:
+  Name: Bulgogi
+  Link: /recipes/korean/bulgogi
+  Region: Koreanisch
+  Tags:
+    - Koreanisch
+  Worksteps:
+    - TBD
+  Ingredients:
+    - 500g Entrecote oder Steak
+    - 1/2 kleine birne, geraffelt
+    - 60ml Soyasauce
+    - 2 Esslöffel Zucker (Braun oder Weiss)
+    - 2 Esslöffel Geröstetes Sesamöl
+    - 3 Knoblauchzehen, gepress
+    - 1 Esslöffel Frisch geriebener Ingwer
+    - 1 Esslöffel gochujang (Koreanische Rote Chilli Paste)
+    - 2 Esslöffel Öl
+    - 2 Frühlingszwiebeln, in feine scheiben geschnitten
+    - 1 Teelöffel Geröstete Sesamkerne
+
