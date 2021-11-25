@@ -478,12 +478,22 @@ bulgogi:
   Name: Bulgogi
   Link: /recipes/korean/bulgogi
   Region: Koreanisch
+  Overview:
+    Time: 24h Einwirken, 30min herstellen
+    Serves: 4
   Tags:
     - Koreanisch
+    - Fleisch
   Worksteps:
-    - TBD
+    - Fleisch in dünne streifen schneiden, für ein einfacheres erlebniss Fleisch ca 30min anfrieren
+    - Birne, Soyasauce, Zucker, Sesame öl, Knoblauch, Ingwer und gochujang vermengen.
+    - Fleisch und Sauce in einen Beutel geben und über Nacht einwirken lassen.
+    - Als Beilage Reis Kochen
+    - Bratpfanne vorheizen und Öl beigeben
+    - Mariniertes Fleisch 1-2 Minuten anbraten
+    - Servieren, mit Frühlingszwiebeln und Sesamkernen Garnieren
   Ingredients:
-    - 500g Entrecote oder Steak
+    - 800g Entrecote oder Steak
     - 1/2 kleine birne, geraffelt
     - 60ml Soyasauce
     - 2 Esslöffel Zucker (Braun oder Weiss)
