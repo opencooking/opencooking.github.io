@@ -552,10 +552,10 @@ bibimbap_sauce:
     - 2 Esslöffel gochujang
     - 1 Esslöffel Geröstetes Sesamöl
     - 1 Esslöffel Zucker
-    - 1 Esslöffel Wasser
+    - 1 Esslöffel Mirin
     - 1 Esslöffel Geröstete Sesamsamen
-    - 1 Teelöffel Apfelessig (oder vergleichbar
-    - 1 Teelöffel Knoblauch gepresst
+    - 1 Teelöffel Apfelessig (oder Reis Essig)
+    - 1 Knoblauchzehe, gepresst
 
 bibimbap_meat:
   Name: Bibimbap Hackfleisch
@@ -576,4 +576,34 @@ bibimbap_meat:
     - 1 Esslöffel Soyasauce
     - 1 Esslöffel Geröstete Sesamsamen
     - 1 Teelöffel Zucker
-    - 1/4 Teelöffel Knoblauch, gepresst
+    - 1 Knoblauchzehe, gepresst
+
+bibimbap_vegi:
+  Name: Bibimbap Gemüse
+  Link: /recipes/korean/bibimbap_vegi
+  Region: Koreanisch
+  Overview:
+    Time: 30min
+    Serves: 4
+  Tags:
+    - Koreanisch
+    - Vegetarisch
+    - Bibimbap
+  Worksteps:
+    - Shiitake 30min in heissem wasser einlegen, Wasser abseihen und Pilze ausdrücken
+    - Karotten und Zucchini getrennt in zwei Schüssel geben, Salzen, 20min stehen lassen und Wasser abgiessen
+    - "Shiitake: Bratpfanne erhitzen, Pilze 2 Minuten anbraten. 1.5 Teelöffel Soya Sauce, 1/4 Teelöffel Zucker und 1/2 Teelöffel Knoblauch hinzugeben. Weitere Minute anbraten."
+    - Karotten in Bratpfanne geben und 5-10 Minuten kochen
+    - Zucchini in Bratpfanne geben und 5-10 Minuten kochen
+    - Spinat mit ein bisschen Sesamöl und Knoblauch anbraten / dünsten
+    - Sojabohnen 5 Minuten dünsten, abseihen, kalt abwaschen und ausdrücken. Mit Knoblauch, Sesamöl und Soyasauce mischen
+  Ingredients:
+    - 2 Karotten, längs kleingeschnitten
+    - 2 Zucchini, längs kleingeschnitten
+    - 1 Spinat, Längs halbiert
+    - 8 Getrocknete Shiitake Pilze
+    - 100g Sojabohnen
+    - 3 Knoblauchzehen gehackt
+    - Soya Sauce
+    - 1/4 Teelöffel white sugar
+    - Geröstetes Sesamöl
