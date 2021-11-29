@@ -607,3 +607,26 @@ bibimbap_vegi:
     - Soya Sauce
     - 1/4 Teelöffel white sugar
     - Geröstetes Sesamöl
+bibimbap:
+  Name: Bibimbap
+  Link: /recipes/korean/bibimbap
+  Region: Koreanisch
+  Photo:
+    - bibimbap.jpg
+    - bibimbap_gemischt.jpg
+  Overview:
+    Time: 40min
+    Serves: 4
+  Tags:
+    - Koreanisch
+    - Bibimbap
+  Worksteps:
+    - Kochen von Gemüse und Fleisch nach Wahl
+    - Herstellen der Sauce
+    - Servieren mit Spiegelei, Gemüse (Fleisch) und 1-2 Esslöffel Sauce
+    - Vermischen
+    - Essen
+  Ingredients:
+    - "[Bigimbap Gemüse](/recipes/korean/bibimbap_vegi)"
+    - "[Bigimbap Fleisch](/recipes/korean/bibimbap_meat)"
+    - "[Bigimbap Sauce](/recipes/korean/bibimbap_sauce)"
