@@ -630,3 +630,31 @@ bibimbap:
     - "[Bigimbap Gemüse](/recipes/korean/bibimbap_vegi)"
     - "[Bigimbap Fleisch](/recipes/korean/bibimbap_meat)"
     - "[Bigimbap Sauce](/recipes/korean/bibimbap_sauce)"
+mushroom_risotto:
+  Name: Pilz Risotto
+  Link: /recipes/italian/mushroom_risotto
+  Region: Italienisch
+  Overview:
+    Time: 90min
+    Serves: 6
+  Tags:
+    - Italienisch
+    - Risotto
+  Worksteps:
+    - Champignon scheiben und zur Seite stellen
+    - Frühlingszwiebeln klein schneiden
+    - Knoblauch hacken
+    - Frühlingszwiebeln und Knoblauch anbratten
+    - Champignon zugeben und weiter anbraten
+    - Reis hinzugeben, anbraten bis glasig
+    - Mit Weisswein ablöschen
+    - Bouillion schrittweise zugeben bis Reis weich
+  Ingredients:
+    - 400g Risotto Reis (Rundkorn)
+    - 1.5L Bouillion
+    - 5dl Weisswein
+    - 200g Reibkäse
+    - 500g Champignon
+    - 8 Frühlingszwiebeln
+    - 6 Knoblauchzehen
+    -
