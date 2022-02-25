@@ -660,3 +660,31 @@ mushroom_risotto:
     - 8 Frühlingszwiebeln
     - 6 Knoblauchzehen
     -
+corned_beef:
+  Name: Corned Beef
+  Link: /recipes/british/corned_beef
+  Region: Britisch
+  Overview:
+    Time: 90min
+    Serves: 6
+  Tags:
+    - Britisch
+  Worksteps:
+    - Gewürze von Nelkenpfeffer bis und mit Kardamom anrösten
+    - Gewürze in Mörser pulverisieren
+  Ingredients:
+    - 1 Esslöffel ganze Nelkenpfeffer Beeren
+    - 1 Esslöffel ganze Senfkörner
+    - 1 Esslöffel Koriander Samen
+    - 1 Esslöffel Chilli Flocken
+    - 1 Esslöffel Pfefferkörner
+    - 2 Teelöffel Nelken
+    - 9 Ganze Kardamom Samen(?)
+    - 6 Lorbeerblätter, zerrieben
+    - 2 Teelöffel getrockneter Ingwer
+    - 1/2 Zimtstängel
+    - 4L Wasser
+    - 300 g Grobes Salz
+    - 16-17g Nitritpökelsalz (0.5-0.6%) pro KG Fleisch
+    - 5 Teelöffel Nitritpökelsalz
+    - 90g Rohzucker
