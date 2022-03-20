@@ -688,3 +688,29 @@ corned_beef:
     - 16-17g Nitritpökelsalz (0.5-0.6%) pro KG Fleisch
     - 5 Teelöffel Nitritpökelsalz
     - 90g Rohzucker
+baerlauch_spaetzle:
+  Name: Bärlauch Spätzle
+  Link: /recipes/british/baerlauch_spaetzle
+  Region: Deutsch
+  Overview:
+    Time: 60min
+    Serves: 3
+  Tags:
+    - German
+  Worksteps:
+    - Work in Progress ;)
+    - Bärlauch, Eier, Quark, Wasser und Öl in Mixer
+    - Mehl und salz in einen Topf, mulde in der Mitte
+    - Bärlauch mix in Mulde leeren und alles vermisschen bis Glänzig
+    - Teig 30min ziehen lassen, währenddessen Salzwasser aufkochen
+    - Teig durch ein Sieb oder Spätzlepresse in Portionen ins Kochende Wasser geben
+    - Kochen bis Spätzle schwimmen, dann abschöpfen
+  Ingredients:
+    - 200g Knöpflimehl
+    - 100g Mehl + 100g
+    - 1.5TL Salz
+    - 50g Bärlauch Gewaschen und ausgeschwungen
+    - 4 frische Eier
+    - 150 g Magerquark
+    - 1 dl Wasser
+    - 5 EL Olivenöl (Oder Knoblauchöl)
