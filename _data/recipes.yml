@@ -690,7 +690,7 @@ corned_beef:
     - 90g Rohzucker
 baerlauch_spaetzle:
   Name: Bärlauch Spätzle
-  Link: /recipes/british/baerlauch_spaetzle
+  Link: /recipes/german/baerlauch_spaetzle
   Region: Deutsch
   Overview:
     Time: 60min
