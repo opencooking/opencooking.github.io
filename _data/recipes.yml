@@ -756,9 +756,9 @@ schmortopf_vegi_pasta:
     - 2 Lorbeerblatt
     - Chillipulver/-flakes
     - 2 El gehackte Petersilie
-schmortopf_jambalaya:
-  Name: Vegetarischer Jambalaya Schmortopf
-  Link: /recipes/german/schmortopf_jambalaya
+schmortopf_pasta:
+  Name: Vegetarischer Pasta Schmortopf
+  Link: /recipes/german/schmortopf_pasta
   Region: Deutsch
   Overview:
     Time: ~60min
