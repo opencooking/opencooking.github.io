@@ -756,3 +756,51 @@ schmortopf_vegi_pasta:
     - 2 Lorbeerblatt
     - Chillipulver/-flakes
     - 2 El gehackte Petersilie
+schmortopf_jambalaya:
+  Name: Vegetarischer Jambalaya Schmortopf
+  Link: /recipes/german/schmortopf_jambalaya
+  Region: Deutsch
+  Overview:
+    Time: ~60min
+    Serves: 5
+  Tags:
+    - Deutsch
+    - Vegetarisch
+    - Bräter
+    - Schmortopf
+    - Slowcooking
+  Worksteps:
+    - Pilze falls naötig halbieren und anbraten
+    - Karotten Schählen und in Dicke Scheiben schneiden, mit anbraten
+    - Knoblauch und Schalotten Kleinschneiden, mit anbraten
+    - Sobald Zwiebeln Glasig sind, Tomatenmark beigeben und kurz anbraten
+    - Mit Mehl besteuben (Oder Xanthan)
+    - Mit Wasser und Rotwein Ablöschen
+    - Alle Gewürze beigeben
+    - 30-60min Köcheln mit geschlossenem Deckel
+    - Hitze erhöhen, Pasta beigeben und mit Wasser auffüllen damit alles knapp mit Wasser bedeckt ist
+    - Pasta gar kochen
+    - Done
+  Ingredients:
+    - 3 Paprika
+    - 3 Mittelgroße Zwiebeln
+    - 1 El Zucker
+    - 1 Aubergine
+    - 300g Champignons
+    - 2 knoblauchzehen
+    - 250 g Reis
+    - 600-800 ml Gemüsebrühe
+    - 150g Bohnen oder Chefe
+    - 3 Stangen Frühlingszwiebeln
+    - 2 Lorbeerblätter
+    - 1 Tl Cajun Spices
+    - 1 Tl geräuchertes Paprikapulver
+    - 2 ½ teaspoons paprika
+    - 2 teaspoons salt
+    - 2 teaspoons garlic powder
+    - 1 ¼ teaspoons dried oregano
+    - 1 ¼ teaspoons dried thyme
+    - 1 teaspoon ground black pepper
+    - 1 teaspoon onion powder
+    - 1 teaspoon cayenne pepper
+    - ½ teaspoon red pepper flakes (Optional)
