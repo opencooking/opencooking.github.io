@@ -4,14 +4,6 @@ layout: page
 permalink: /
 nav_exclude: true
 ---
-## Cocktails
-{% assign cocktail_by_name = site.data.cocktails | sort %}
-{% for x in cocktail_by_name -%}
-{% for recipe in x -%}
-- [{{ recipe.Name }}]({{ recipe.Link }})
-{% endfor -%}
-{% endfor -%}
-
 ## Essen
 {% assign recipes_by_name = site.data.recipes | sort %}
 {% for x in recipes_by_name -%}
@@ -19,6 +11,14 @@ nav_exclude: true
 {% if recipe.Name -%}
 - [{{ recipe.Name }}]({{ recipe.Link }}) - {{ recipe.Region }}
 {% endif -%}
+{% endfor -%}
+{% endfor -%}
+
+## Cocktails
+{% assign cocktail_by_name = site.data.cocktails | sort %}
+{% for x in cocktail_by_name -%}
+{% for recipe in x -%}
+- [{{ recipe.Name }}]({{ recipe.Link }})
 {% endfor -%}
 {% endfor -%}
 
