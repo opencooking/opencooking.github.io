@@ -797,20 +797,15 @@ schmortopf_pasta:
     - 5dl Vollrahm
     - 2TL Xanthan oder anderes Verdickungsmittel z.B. Mehl
     - Gemüsebrühe Pulver
-
 carne_en_su_jugo:
   Name: Carne en su jugo
   Link: /recipes/mexican/carne_en_su_jugo
   Region: Mexikanisch
   Overview:
-    Time: ~60min
+    Time: 30min
     Serves: 4
   Tags:
-    - Deutsch
-    - Vegetarisch
-    - Bräter
-    - Schmortopf
-    - Slowcooking
+    - Mexikanisch
   Worksteps:
     - Fleisch abtrocknen, in kleine würfel schneiden und mit Salz und Pfeffer würzen
     - Speck klein schneiden und in einem Topf mit öl anbraten
@@ -832,4 +827,64 @@ carne_en_su_jugo:
     - Pflanzenöl
     - 1/2 Tasse Zwiebeln Gehackt
     - 1/2 Tasse Koreander grün gehakt
-    - 1 taza de rábanos en rodajas
+salsa_verde:
+  Name: Salsa Verde
+  Link: /recipes/mexican/salsa_verde
+  Region: Mexikanisch
+  Overview:
+    Time: 20min
+    Serves: 2
+  Tags:
+    - Mexikanisch
+  Worksteps:
+    - Wasser aufkochen und Tomatillos, Serranos und Knoblauch darin ca. 12-15min kochen
+    - Wasser abseihen und zur seite stellen
+    - Tomatillos, Serranos und Knoblauch in Blender geben
+    - Falls zu dick, vom beiseite gestellten Wasser dazugeben
+    - Mit Salz und Limettensaft würzen
+  Ingredients:
+    - 6 Tomatillos
+    - 3 Esslöffel Gehakte Zwiebeln
+    - 1 Knoblauchzehe
+    - 2-3 Serranos Chillies
+    - 3 Tassen Wasser
+cochinita_pibil:
+  Name: Cochinita Pibil
+  Link: /recipes/mexican/cochinita_pibil
+  Region: Mexikanisch
+  Overview:
+    Time: 24h
+    Serves: 4
+  Tags:
+    - Mexikanisch
+    - Bräter
+    - Schmortopf
+    - Slowcooking
+  Worksteps:
+    - Das Fleisch in grobe Stücke schneiden
+    - Nelken, Pfeffer, Zimt, Koriander und Kreuzkümmel in einer Pfanne rösten
+    - Geröstete Gewürze mit Zucker und Salz im Mörser zerreiben.
+    - Mit Oregano, Paprika, Macis, Kurkuma, Honig und Öl verrühren
+    - Knoblauch schälen, pressen, mit Orangen- und Grapefruitsaft dazugeben und alles verrühren
+    - Fleisch mit der Würzsoße gemischt über Nacht kalt stellen
+    - Mischung in einen Bräter geben und bei 140C für 4 Stunden köcheln lassen
+    - Fleisch mit zwei Gabeln zerteilen
+    - Servieren mit Salsa Verde, Gehackten Zwiebeln, Tortillas
+  Ingredients:
+    - 2 Kilogramm Schweineschulter
+    - 1 TL Nelken
+    - 3 TL Pfefferkörner
+    - 1 Stangen Zimt
+    - 4 TL Korianderkörner
+    - 3 TL Kreuzkümmel
+    - 4 TL Zucker
+    - 3 TL Salz
+    - 3 TL Oregano
+    - 3 TL Paprika edelsüß
+    - 1 TL Macis (Oder Muskatnuss gerieben)
+    - 3 TL Kurkuma
+    - 2 EL Honig
+    - 3 EL Öl
+    - 3 Knoblauchzehen
+    - 300 Milliliter Orangensaft
+    - 300 Milliliter Grapefruits
