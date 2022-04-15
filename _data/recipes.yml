@@ -797,3 +797,45 @@ schmortopf_pasta:
     - 5dl Vollrahm
     - 2TL Xanthan oder anderes Verdickungsmittel z.B. Mehl
     - Gemüsebrühe Pulver
+
+carne_en_su_jugo:
+  Name: Carne en su jugo
+  Link: /recipes/mexican/carne_en_su_jugo
+  Region: Mexikanisch
+  Overview:
+    Time: ~60min
+    Serves: 4
+  Tags:
+    - Deutsch
+    - Vegetarisch
+    - Bräter
+    - Schmortopf
+    - Slowcooking
+  Worksteps:
+    - Alles Gemüse ausser Frühlingszwiebeln Grob zerkleinern
+    - Gemüse in Bräter anbraten
+    - Ablöschen mit Dosentomaten und Vollrahm
+    - Gewürze beigeben und mit Salz / Pfeffer abschmecken
+    - Aufkochen und 5min Kochen lassen
+    - Hitze reduzieren und Bräter verschliessen
+    - Köcheln lassen für 30-60min
+    - Pasta beigeben und kochen bis weich, gegebenenfalls Wasserbeigeben
+    - Frühlingszwiebeln klein schneiden und beigeben
+    - Servieren
+  Ingredients:
+    - 1 kg Rinds cordonbleut
+    - 6 Tomatillos
+    - 2 Zehen Knoblauch
+    - 2 Serrano Chilli
+    - 1/4 Zwiebel
+    - 1/2 kg Bratspeck
+    - 3 Esslöffel Koreander grün gehakt
+    - 1 L Wasser
+    - 1 Würfel Flügelbouillon
+    - 4 Tassen frijoles de olla
+    - Pflanzenöl
+    - 1/2 Tasse de cebolla picada
+    - 1/2 Tasse de cilantro picado
+    - 1 taza de rábanos en rodajas
+    - 1 manojo de cebollas cambray asadas
+    - Tortillas fritas o totopos
