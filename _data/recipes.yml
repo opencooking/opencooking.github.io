@@ -836,6 +836,7 @@ salsa_verde:
     Serves: 2
   Tags:
     - Mexikanisch
+    - Sauce
   Worksteps:
     - Wasser aufkochen und Tomatillos, Serranos und Knoblauch darin ca. 12-15min kochen
     - Wasser abseihen und zur seite stellen
@@ -888,3 +889,25 @@ cochinita_pibil:
     - 3 Knoblauchzehen
     - 300 Milliliter Orangensaft
     - 300 Milliliter Grapefruits
+aioli:
+  Name: Aioli
+  Link: /recipes/spanish/aioli
+  Region: Spanisch
+  Overview:
+    Time: 10min
+    Serves: 4
+  Tags:
+    - Spanisch
+    - Sauce
+  Worksteps:
+    - Knoblauch 2 Minuten in kochendem Wasser kochen und auskühlen lassen (optional)
+    - Ei, Knoblauch, Salz und Zitrone in Mixer geben und vor mixen
+    - Öl langsam bei konstantem mixen zugeben zum Emulsieren
+  Ingredients:
+    - 1 Ei (Raumtemperatur)
+    - 100ml Olivenöl
+    - 100ml Sonnenblumenöl
+    - 1-2 Knoblauchzehen
+    - 1 Teelöffel Salz
+    - Zitronensaft einer halben Zitrone
+
