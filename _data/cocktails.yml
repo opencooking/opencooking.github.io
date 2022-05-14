@@ -365,3 +365,20 @@ carajillo_cocktail:
     - 1 Grosser Esslöffel Schlagsahne (gesüsst)
     - Zucker und Zitrone(n Saft) für Glasrand (falls gewollt)
 
+temp_1:
+  Name: Tempting One
+  Link: /cocktails/temp_1
+  Rating: 3
+  Tags:
+    - Rum
+  Worksteps:
+    - Longdrink Glas mit Crushed eis füllen
+    - Zutaten in Cocktailshaker mit Eis mixen
+    - Cocktail in Glas geben
+  Ingredients:
+    - 0.5oz Chartreuse
+    - 0.5oz Butterscotch Liqueur
+    - 0.25oz Orgeat Sirup
+    - 1oz Rum
+    - 1oz Lime Juice
+
