@@ -910,4 +910,32 @@ aioli:
     - 1-2 Knoblauchzehen
     - 1 Teelöffel Salz
     - Zitronensaft einer halben Zitrone
-
+korean_ramen:
+  Name: Koreanische Nudelsuppe
+  Link: /recipes/korean/korean_ramen
+  Region: Koreanisch
+  Overview:
+    Time: 45min
+    Serves: 2
+  Tags:
+    - Koreanisch
+    - Ramen
+    - Vegetarisch
+  Worksteps:
+    - Kombualgen mit Getrockneten Shitake in 1l Wasser aufkochen
+    - Sobald Wasser kocht, hitze reduzieren und 15min ziehen lassen danach Shitake und Kombualgen absieben
+    - Zwiebeln in Ringe schneiden und anbraten
+    - Sobald die Zwiebeln braun sind Knoblauch dazu pressen und Ingewer dazu reiben und 2-3min anbraten
+    - Zwiebeln, Knoblauch und Ingwer in die Suppe geben 15min ziehen lassen und wieder abfiltrieren
+    - Nach belieben Gochujang und Doenjang in die Suppe geben und schauen das wieder auf 1L Wasser aufgefüllt wird
+    - Mit Sojasauce und Limettensaft abschmecken
+  Ingredients:
+    - 30g Kombu Algen
+    - 10g Shitake Getrocknet
+    - 1 Esslöffel Gochujang
+    - 1 Esslöffel Doenjang
+    - 1 Zwiebel
+    - 8 Knoblauchzehen
+    - 3cm Ingwer
+    - Sojasauce
+    - Limettensaft
