@@ -382,3 +382,25 @@ temp_1:
     - 1oz Rum
     - 1oz Lime Juice
 
+spicy_falernum:
+  Name: Spicy Falernum
+  Link: /cocktails/spicy_falernum
+  Rating: 3
+  Tags:
+    - Falernum
+    - Mezcal
+    - Tequila
+    - Shake
+  Worksteps:
+    - Zutaten shaken
+    - Longdrinkglas mit Crushed Eis auffüllen
+    - Drink beigeben
+  Ingredients:
+    - 1.5 oz. Tequila reposado
+    - 0.5 oz. Mezcal
+    - 0.5 oz. Zimt Sirup z.B. Monin Spicy
+    - 0.5 oz. Velvet Falernum
+    - 0.75 oz. Limettensaft
+    - 1 Teelöffel Cream de Coconut
+    - 1 Schuss Angostura bitters
+
