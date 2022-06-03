@@ -939,3 +939,26 @@ korean_ramen:
     - 3cm Ingwer
     - Sojasauce
     - Limettensaft
+crepes:
+  Name: Crêpes
+  Link: /recipes/french/crepes
+  Region: Französisch
+  Overview:
+    Time: 45min
+    Serves: 2
+  Tags:
+    - Französisch
+    - Vegetarisch
+  Worksteps:
+    - Butter langsam schmelzen
+    - Mehl und salz in Schüssel mischen, Mulde machen
+    - Eier und Milch vermischen und in die Mulde geben, mit schwingbesen vermischen
+    - Die geschmolzene Butter beimischen
+    - 30min zugedeckt ruhen lassen
+  Ingredients:
+    - 50g Butter
+    - 125g Mehl
+    - 0.25 Teelöffel Salz
+    - 2 Eier
+    - 3
+    - dl Milch
