@@ -962,3 +962,44 @@ crepes:
     - 2 Eier
     - 3
     - dl Milch
+reis_pilz_topf:
+  Name: Reis Pilz Topf
+  Link: /recipes/german/reis_pilz_topf
+  Region: Deutsch
+  Overview:
+    Time: 6h
+    Serves: 4
+  Tags:
+    - Deutsch
+    - Vegetarisch
+    - Bräter
+    - Schmortopf
+    - Slowcooking
+  Worksteps:
+    - Zwiebeln, Wein, Gemüsebrühe, Lorbeerblätter, Thymian, Paprika, Chilliflocken in Bräter geben
+    - 4-6h auf niedrigster Temperatur köcheln, oder bis Karotten weich
+    - 1h vor vor Fertig die Pilze in grobe scheiben schneiden
+    - Backofen auf 200C vorheizen
+    - Pilze mit Knoblauch, Zitronen Zeste, Knoblauch und Butter in grosse Backform geben
+    - Bei ca 200C für 45-60min Backen, bis Karamellisiert (ab und zu durchmischen)
+    - 1h vor Ende den Reis in den Bräter geben
+    - 30min vor Ende den Vollrahm in den Bräter geben
+    - Pilze sobald sie Fertig sind in den Bräter geben
+    - Abschmecken
+    - Mit Parmesan servieren
+  Ingredients:
+    - 1 Tasse Wildreis gemischt
+    - 1 Zwiebel, kleingeschnitten
+    - 6 Karotten, in Scheiben
+    - 1250ml Gemüsebrühe
+    - 250ml Weisswein
+    - 3 Thymian Zweige frisch
+    - 2 Lorbeerblätter
+    - 1 Esslöffel Paprika Edelsüss
+    - 1/2 Esslöffel Chilliflocken
+    - Parmesan zum Servieren
+    - 250ml Vollrahm
+    - 800g Verschiedene Pilze
+    - 4 Knoblauchzehen, Gepresst
+    - 200g Butter
+    - Zeste von einer Zitrone
