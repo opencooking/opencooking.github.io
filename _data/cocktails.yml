@@ -381,7 +381,6 @@ temp_1:
     - 0.25oz Orgeat Sirup
     - 1oz Rum
     - 1oz Lime Juice
-
 spicy_falernum:
   Name: Spicy Falernum
   Link: /cocktails/spicy_falernum
@@ -403,4 +402,44 @@ spicy_falernum:
     - 1 oz. Limettensaft
     - 1 Teelöffel Cream de Coconut
     - 1 Schuss Angostura bitters
-
+singapore_sling:
+  Name: Singapore Sling
+  Link: /cocktails/singapore_sling
+  Rating: 5
+  Tags:
+    - Shake
+    - Gin
+    - Dry
+  Worksteps:
+    - Zutaten ausser Soda in Shaker mit Eis geben
+    - Shake!
+    - Longdrinkglas mit Eis auffüllen
+    - Soda in Glas geben
+    - Drink beigeben
+    - Leicht mischen
+  Ingredients:
+    - 60 ml Gin
+    - 20 ml Cherry Liqueur
+    - 20 ml Limettensaft
+    - 1 Tropfen Angostura Bitters
+    - 1cl Zuckersirup
+    - 2-3 Tropfen Les Trois Rois Citrus Bergamia
+    - 10cl Soda
+    - Eis
+kyoto_sour:
+  Name: Kyoto Sour
+  Link: /cocktails/kyoto_sour
+  Rating: 5
+  Tags:
+    - Sour
+    - Sake
+  Worksteps:
+    - Zutaten in Shaker mit Eis geben
+    - Shake!
+    - Tumbler mit Eis auffüllen
+    - Drink beigeben
+  Ingredients:
+    - 90 ml Sake
+    - 20 ml lemon juice, freshly squeezed
+    - 10 ml Monin Spicy Sirup (Alternativ, Chilipulver + Zuckersirup)
+    - Eis
