@@ -1003,3 +1003,50 @@ reis_pilz_topf:
     - 4 Knoblauchzehen, Gepresst
     - 200g Butter
     - Zeste von einer Zitrone
+gemüse_top:
+  Name: Gemüse Topf
+  Link: /recipes/german/gemüse_top
+  Region: Deutsch
+  Overview:
+    Time: 1
+    Serves: 4
+  Tags:
+    - Deutsch
+    - Vegetarisch
+    - Bräter
+    - Schmortopf
+    - Slowcooking
+  Worksteps:
+    - Karotten und Zwiebeln klein würfeln und mit Olivenöl im Bräter anbraten (5-10min)
+    - Knoblauchzehen dazu pressen und 1 Minute mit anbraten
+    - Tomatenmark dazugeben und anbraten
+    - Mit 150ml Wasser und Rotwein ablöschen
+    - 20 Min köcheln lassen
+    - Aubergine und Paprika klein schneiden und beigeben
+    - Dosentomaten beigeben
+    - 1-2DL Wasser hinzugeben
+    - Roten Linsen abwaschen und beigeben
+    - 15 Min köcheln lassen
+    - Cherry Tomaten halbieren und beigeben
+    - Zucchini würfel und beigeben
+    - Mit Macis (oder Muskatnuss) Paprikapulver, Gemüsebrühe, Salz und Pfeffer abschmecken.
+    - 15 Min köcheln
+    - Essen ;)
+  Ingredients:
+    - 300 Gramm rote Linsen
+    - 1 rote Paprika
+    - 3 mittelgrosse Karotten
+    - 1 Zucchini
+    - 1 Aubergine
+    - 1 weisse Zwiebel
+    - 2 Knoblauchzehen
+    - 2 EL Tomatenmark
+    - Tomaten aus der Dose (ca. 500 Gramm)
+    - 300 Gramm Cherry-Tomaten
+    - 2 EL Kräuter der Provence
+    - Olivenöl
+    - Gemüsebrühe (gekörnt)
+    - 1DL Rotwein
+    - 1 TL Macis / Muskatnuss
+    - 1 EL Paprikapulver (Geräuchert)
+    - 2 EL Gemüsebrühe
