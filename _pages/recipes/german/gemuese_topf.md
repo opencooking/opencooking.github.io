@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Gemüse Topf
-permalink: /recipes/german/gemüse_top
+permalink: /recipes/german/gemuese_topf
 parent: Deutsch
 grand_parent: Recipes
 ---
-{% assign recipe = site.data.recipes.gemüse_top %}
+{% assign recipe = site.data.recipes.gemuese_topf %}
 {% include recipe.liquid %}

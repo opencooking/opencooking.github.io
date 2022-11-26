@@ -1003,9 +1003,9 @@ reis_pilz_topf:
     - 4 Knoblauchzehen, Gepresst
     - 200g Butter
     - Zeste von einer Zitrone
-gemüse_top:
+gemuese_topf:
   Name: Gemüse Topf
-  Link: /recipes/german/gemüse_top
+  Link: /recipes/german/gemuese_topf
   Region: Deutsch
   Overview:
     Time: 1
