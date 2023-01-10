@@ -1050,3 +1050,35 @@ gemuese_topf:
     - 1 TL Macis / Muskatnuss
     - 1 EL Paprikapulver (Geräuchert)
     - 2 EL Gemüsebrühe
+boranija:
+  Name: Boranija
+  Link: /recipes/balkan/boranija
+  Region: Balkan
+  Overview:
+    Time: 1
+    Serves: 4
+  Tags:
+    - Baltisch
+    - Bräter
+    - Schmortopf
+    - Slowcooking
+  Worksteps:
+    - In einem grossen Topf Zwiebeln und Karotten mit Öl für 5min anbraten
+    - Knoblauchzehen dazu pressen und 1 Minute mit anbraten
+    - Fleisch und 1-2DL Bouillon dazugeben und 10min köcheln lassen
+    - Paprikapulver, Tomatenpüree, Zucker und Bohnen beigeben
+    - 2-3DL Bouillon beigeben und 10min köcheln lassen
+    - Kartoffeln und Lorbeerblatt dazugeben, und mit Bouillon auffüllen das alles bedeckt ist
+    - Mit geschlossenem Deckel auf kleinster Stuff mindestens 1h Köcheln lassen
+  Ingredients:
+    - 1 Zwiebel Gross, Gehakt
+    - 1-2 Karotten, gewürfelt
+    - 2 Knoblauch, gepresst
+    - 500g Gulasch Fleisch
+    - 1 Esslöffel Paprika pulver geräuchert
+    - 2 Esslöffel Tomatenpüree
+    - 1 Teelöffel Zucker
+    - 1kg Coco Bohnen oder etwas ähnliches, enden Abgeschnitten und kurz geschnitten ca 1cm
+    - 500g Kartoffeln Hartkochend, gewürfelt
+    - 1 Lorbeerblatt
+    - 750ml - 1.5L Wasser / Bouillon
