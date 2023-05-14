@@ -1082,3 +1082,109 @@ boranija:
     - 500g Kartoffeln Hartkochend, gewürfelt
     - 1 Lorbeerblatt
     - 750ml - 1.5L Bouillon
+spinat_shiitake_gyoza:
+  Name: Spinat und Shiitake Gyoza
+  Link: /recipes/asian/spinat_shiitake_gyoza
+  Region: Asiatisch
+  Tags:
+    - Chinesisch
+    - Vegetarisch
+    - Gyoza
+  Worksteps:
+    - Wok stark erhitzen und Öl hinzugeben
+    - Eier hinzugeben und Rührei machen, dann beiseite stellen
+    - Wok auswaschen, und wieder stark erhitzen und einfetten
+    - Frühlingszwiebeln und Knoblauch hinzugeben und 30 bei starker Hitze anbraten
+    - Spinat und Wasser hinzugeben und bei mittlerer Hitze einkochen
+    - Möhren, Rührei, und Pilze hinzugeben und bei mittlerer Hitze einkochen
+    - Nudeln, Soja Sauce und Sesamöl hinzugeben und bei mittlerer Hitze einkochen
+    - Füllung in eine Schüssel geben und abkühlen lassen
+    - Gyoza Teig mit Wasser befeuchten und Füllung hinzugeben und verschliessen
+    - Gyoza in einer Pfanne mit Öl anbraten oder dämpfen
+    - Mit "[Goyza Sauce](/recipes/asian/gyoza_sauce)" servieren
+  Ingredients:
+    - 2 Grosse eier, verquirlt
+    - 2 Stengel von Frühlingszwiebeln, zerkleinert
+    - 2 Knoblauzehen, gepresst oder zerkleinert
+    - 300g frischer baby spinat, grob zerkleinert
+    - 1 Esslöffel Wasser
+    - 2 mittelgrosse Möhren, gerieben
+    - 200g Shiitake Pilze, zerkleinert
+    - 70g Bohnen Nudeln (oder Reisnudeln), in warmem Wasser eingeweicht und grob zerkleinert
+    - 2 Esslöffel Soja Sauce
+    - ½ Teelöffel Sesamöl
+    - Fertiger Gyoza Teig (aus asia Store)
+    - "[Sauce für Goyza](/recipes/asian/gyoza_sauce)"
+beef_cabbage_gyoza:
+  Name: Rindshackfleisch und China Kohl Gyoza
+  Link: /recipes/asian/beef_cabbage_gyoza
+  Region: Asiatisch
+  Tags:
+    - Chinesisch
+    - Gyoza
+  Worksteps:
+    - Alle ingredienzien in eine Schüssel geben und gut mischen
+    - Füllung in einer Schüssel mindestens 1h im Kühlschrank ziehen lassen
+    - Gyoza Teig mit Wasser befeuchten und Füllung hinzugeben und verschliessen
+    - Gyoza in einer Pfanne mit Öl anbraten oder dämpfen
+    - Mit "[Goyza Sauce](/recipes/asian/gyoza_sauce)" servieren
+  Ingredients:
+    - 500g Rindshackfleisch
+    - 2½ Tassen, Feingehackter China Kohl
+    - 3+ Esslöffel Soja Sauce
+    - 1 Stengel von Frühlingszwiebeln, zerkleinert
+    - 1 Teelöffel Ingwer, gerieben
+    - 1 Teelöffel Sesamöl
+    - ¼ Teelöffel Pfeffer
+    - "[Sauce für Goyza](/recipes/asian/gyoza_sauce)"
+gyoza_sauce:
+  Name: Sauce für Goyza
+  Link: /recipes/asian/gyoza_sauce
+  Region: Asiatisch
+  Tags:
+    - Chinesisch
+    - Vegetarisch
+    - Gyoza
+  Worksteps:
+    - Alle ingredienzien in eine Schüssel geben und gut mischen
+    - Mindestens 30min im Kühlschrank ziehen lassen am besten länger
+  Ingredients:
+    - 100ml Soja Sauce
+    - 2 Esslöffel Reisessig
+    - 1 Stengel von Frühlingszwiebeln, zerkleinert
+    - 3 Knoblauchzehen, gepresst
+    - 1+ Esslöffel Koriander, gehackt
+    - 1 Teelöffel Ingwer, gerieben
+    - 1 Teelöffel chili sauce (optional)
+zha_jiang_mian:
+  Name: Zha jiang mian
+  Link: /recipes/asian/zha_jiang_mian
+  Region: Asiatisch
+  Tags:
+    - Chinesisch
+  Worksteps:
+    - Wok stark erhitzen und Öl hinzugeben
+    - Rindshackfleisch hinzugeben und anbraten
+    - Rinshackfleisch aus dem Wok nehmen und beiseite stellen
+    - Fett ab leeren
+    - Wok wieder stark erhitzen und einfetten
+    - Frühlingszwiebeln, Knoblauch und Ingwer hinzugeben und 1-2min bei starker Hitze anbraten
+    - Tomaten, Wasser, Soja Sauce, sweet bean sauce, bean sauce, Mirin und Zucker hinzugeben und bei mittlerer Hitze einkochen
+    - Rindshackfleisch hinzugeben und bei tiefer Hitze einkochen
+    - Nudeln zubereiten
+    - Mit Frühlingszwiebeln und Chili sauce servieren
+  Ingredients:
+    - 500g Rindshackfleisch
+    - 1 Dose Tomaten, gehackt
+    - 1 Stengel von Frühlingszwiebeln, zerkleinert
+    - 2 Knoblauchzehen, gepresst
+    - 1 Teelöffel Ingwer, gerieben
+    - 300ml Wasser
+    - 3 Esslöffel Soja Sauce
+    - 3 Esslöffel sweet bean sauce (oder sweet been paste)
+    - 1 Esslöffel bean sauce
+    - 1 Esslöffel Mirin
+    - 1 Teelöffel Zucker
+    - Irgendwelche Bohnen oder Reisnudeln
+    - 2 Stengel von Frühlingszwiebeln, zerkleinert, für Deko
+    - Chili sauce
