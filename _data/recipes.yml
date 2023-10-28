@@ -1200,11 +1200,20 @@ poke_bowl:
     - Vegetarisch
   Worksteps:
     - "**Poke Sauce**":
-      - Test
+    - Alle Zutaten für die Sauce Vermengen
+    - Falls Fisch benutzt wird, diesen mit einem Teil der Sauce vermengen und mindestend 30min im Kühlschrank marinieren lassen
     - "**Reis**"
     - Den Reisessig, Zucker und Salz in einem kleinen Topf erhitzen und rühren, bis sich der Zucker aufgelöst hat.
     - Den Reis in eine breite Schüssel geben, mit der warmen Flüssigkeit beträufeln.
     - Mit einer Gabel lockern und abkühlen lassen.
+    - "**Für die Bowl**"
+    - Edamame Steamen
+    - Tofu würfeln und mit Soyasauce anbraten
+    - Mango, Gurke und Avocado Würfeln
+    - Frühlingszwiebeln in Kleine Ringe schneiden
+    - Bowl mit Reis füllen und Toppings drüber
+    - Sauce oder Dressing nach Wahl
+    - Frühlingszwiebeln, Thai Basilikum oder Koriander und Sesamsamen als Decko drüber
   Ingredients:
     - "**Poke Sauce**"
     - 2 Esslöffel Soya Sauce
@@ -1212,25 +1221,25 @@ poke_bowl:
     - 2 Teelöffel Sesam Öl
     - 2 Teelöffel Sesam Geröstete Samen
     - 1 Teelöffel Ingwer, Frisch Gerieben
-    - "**Für das Dressing**"
+    - "**Nuss Dressing (Optional)**"
     - 3 Esslöffel Erdnussmus oder Mandelmus (ungesüßt)
     - 1 Esslöffel Sojasauce
     - 2 Esslöffel Limettensaft
     - 1 Esslöffel Ahornsirup
     - Pfeffer
+    - "**Mayo Sriracha Dressing (Optional)**"
+    - Mayonaise
+    - Sriracha Sauce
     - "**Für die Bowl**"
     - 400g Lachsfilet, Sushi Qualität (Falls nicht Vegi)
     - 200g Edamame
     - 200g Tofu
-    - 150g Rotkohl
+    - 1 Mango
     - 1 Frühlingszwiebel
-    - 2 Karotten
     - 1 Gurke
     - 1 Avocado
-    - 1 Teelöffel Limettensaft
     - 1 Bund Koriander oder Thai-Basilikum
     - 1 Esslöffel Sesamsamen
-    - 1 Esslöffel Rapsöl
     - 1 Esslöffel Sojasauce 
     - "**Reis**"
     - 300 g sushi Reis
