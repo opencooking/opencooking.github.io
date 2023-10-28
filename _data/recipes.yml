@@ -1199,15 +1199,19 @@ poke_bowl:
     - Bowl
     - Vegetarisch
   Worksteps:
-    - Mix!
+    - "**Poke Sauce**":
+      - Test
+    - "**Reis**"
+    - Den Reisessig, Zucker und Salz in einem kleinen Topf erhitzen und rühren, bis sich der Zucker aufgelöst hat.
+    - Den Reis in eine breite Schüssel geben, mit der warmen Flüssigkeit beträufeln.
+    - Mit einer Gabel lockern und abkühlen lassen.
   Ingredients:
-    - "**Fisch (falls nicht Vegi)**"
+    - "**Poke Sauce**"
     - 2 Esslöffel Soya Sauce
     - ½ Esslöffel yuzukosho
     - 2 Teelöffel Sesam Öl
     - 2 Teelöffel Sesam Geröstete Samen
     - 1 Teelöffel Ingwer, Frisch Gerieben
-    - 400g Lachsfilet, Sushi Qualität
     - "**Für das Dressing**"
     - 3 Esslöffel Erdnussmus oder Mandelmus (ungesüßt)
     - 1 Esslöffel Sojasauce
@@ -1215,7 +1219,7 @@ poke_bowl:
     - 1 Esslöffel Ahornsirup
     - Pfeffer
     - "**Für die Bowl**"
-    - 200g Basmati-Reis oder Jasminreis
+    - 400g Lachsfilet, Sushi Qualität (Falls nicht Vegi)
     - 200g Edamame
     - 200g Tofu
     - 150g Rotkohl
@@ -1228,3 +1232,9 @@ poke_bowl:
     - 1 Esslöffel Sesamsamen
     - 1 Esslöffel Rapsöl
     - 1 Esslöffel Sojasauce 
+    - "**Reis**"
+    - 300 g sushi Reis
+    - 2 Esslöffel Reis Essig
+    - 1 Esslöffel Zucker
+    - 0.5 Teelöffel Salz
+    
