@@ -1264,7 +1264,7 @@ poke_bowl:
     - 0.5 Teelöffel Salz
 hobaknamul:
   Name: Hobak Namul
-  Link: /recipes/korean/hobak|namul
+  Link: /recipes/korean/hobak_namul
   Region: Koreanisch
   Overview:
     Time: 1h
