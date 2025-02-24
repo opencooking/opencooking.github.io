@@ -320,7 +320,6 @@ hamburger:
     - 100 Speck streifen, kleingeschnitten
     - Gewürze
 
-
 #croquetas_espinacas:
 #  Name: Spinat Croquetas
 #  Link: /recipes/spanish/croquetas_espinacas
@@ -345,7 +344,6 @@ hamburger:
 #    - 3 Eier verquirlt
 #    - 3 Tassen Paniermehl
 
-
 albondigas:
   Name: Albóndigas
   Link: /recipes/spanish/albondigas
@@ -354,16 +352,16 @@ albondigas:
     - Spanisch
     - Rindfleisch
   Worksteps:
-    - Den Grill vorheizen. 
-    - Poblano-Chili auf einem hitzebeständigen Backblech mit Kanten platzieren, gelegentlich wenden bis er an einigen Stellen verkohlt und überall an den Stellen gebläht ist (6–8 Minuten). 
-    - In eine Schüssel geben, mit Plastikfolie abdecken und 10 Minuten dämpfen lassen. 
-    - Haut, Stiel und Samen entfernen; wegwerfen.  
-    - Poblano, Zwiebel, Knoblauch, Rucola und Koriander im Mixer fein hacken. 
+    - Den Grill vorheizen.
+    - Poblano-Chili auf einem hitzebeständigen Backblech mit Kanten platzieren, gelegentlich wenden bis er an einigen Stellen verkohlt und überall an den Stellen gebläht ist (6–8 Minuten).
+    - In eine Schüssel geben, mit Plastikfolie abdecken und 10 Minuten dämpfen lassen.
+    - Haut, Stiel und Samen entfernen; wegwerfen.
+    - Poblano, Zwiebel, Knoblauch, Rucola und Koriander im Mixer fein hacken.
     - Tortillachips und Milch in einer großen Schüssel vermengen; bis die Chips weich sind, ca. 5 Minuten stehen lassen.
-    - Mit der Poblano-Mischung, Eiern und Käse vermischen; mit Salz und Pfeffer würzen.  
-    - Das Rindfleisch vorsichtig unterrühren. 
-    - Die Mischung zu Kugeln mit einem Durchmesser von 1½ Zoll (jeweils 2 EL; ergibt etwa 40) formen.  
-    - Mindestens 4 Stunden kalt stellen.  
+    - Mit der Poblano-Mischung, Eiern und Käse vermischen; mit Salz und Pfeffer würzen.
+    - Das Rindfleisch vorsichtig unterrühren.
+    - Die Mischung zu Kugeln mit einem Durchmesser von 1½ Zoll (jeweils 2 EL; ergibt etwa 40) formen.
+    - Mindestens 4 Stunden kalt stellen.
     - Dazu [Ancho Chili Sauce](/recipes/spanish/ancho_chile_sauce)
   Ingredients:
     - 1 Poblano Chili
@@ -397,9 +395,9 @@ ancho_chile_sauce:
     - Restliches EL Öl in einer großen Pfanne bei mittlerer Hitze erhitzen.
     - Fleischbällchen portionsweise kochen, bis sie an allen Seiten braun sind (8-10 Minuten).
     - Fleischbällchen in einen Dutch Oven oder Topf geben und Chilisauce hinzufügen.
-    - Zum Kochen bringen, Hitze reduzieren und köcheln lassen. 
+    - Zum Kochen bringen, Hitze reduzieren und köcheln lassen.
     - Fleischbällchen wenden und bei Bedarf mehr Brühe hinzufügen (Sauce sollte bis zu ¾ des Weges an den Fleischbällchen reichen).
-    - Köcheln lassen, bis die Fleischbällchen durchgegart sind und die Sauce leicht eingedickt ist (15-20 Minuten). 
+    - Köcheln lassen, bis die Fleischbällchen durchgegart sind und die Sauce leicht eingedickt ist (15-20 Minuten).
   Ingredients:
     - 4 Getrockente Ancho Chilies, entkernt
     - 1 Kleine Zwiebel, gekackt
@@ -491,7 +489,6 @@ chorizo_tinto:
     - 1 Knoblauchzehe
     - 2 Loorbeerblätter Frisch
     - Brot zum Servieren
-
 
 bulgogi:
   Name: Bulgogi
@@ -1259,10 +1256,37 @@ poke_bowl:
     - 1 Avocado
     - 1 Bund Koriander oder Thai-Basilikum
     - 1 Esslöffel Sesamsamen
-    - 1 Esslöffel Sojasauce 
+    - 1 Esslöffel Sojasauce
     - "**Reis**"
     - 300 g sushi Reis
     - 2 Esslöffel Reis Essig
     - 1 Esslöffel Zucker
     - 0.5 Teelöffel Salz
-  
+hobaknamul:
+  Name: Hobak Namul
+  Link: /recipes/korean/hobak|namul
+  Region: Koreanisch
+  Overview:
+    Time: 1h
+    Serves: 4
+  Tags:
+    - Koreanisch
+    - Vegetarisch
+  Worksteps:
+    - Die Enden der Zucchini abschneiden
+    - Die Zucchini in der Länge halbieren und in dünne Scheiben schneiden
+    - Die Scheiben in ein Sieb oder eine Schüssel legen und Salz darüber streuen
+    - 10 Minuten ruhen lassen, dann das Salz mit Papierhandtüchern abwischen und fest ausdrücken, um das überschüssige Wasser zu entfernen
+    - Sesamöl in einer Pfanne auf mittlerstarker Hitze erhitzen
+    - Die Zucchinischeiben hinzufügen und etwa 5 Minuten braten, bis sie weich sind (falls nötig länger braten)
+    - Knoblauch, grüne Zwiebeln, Soyasauce, Zucker und Gochugaru hinzufügen und weitere Minute braten
+    - Vom Herd nehmen und abkühlen lassen
+  Ingredients:
+    - 1 Zucchini
+    - 1 Frühlingszwiebeln kleingeschnitten
+    - 1 Esslöffel Sesam Öl
+    - 4 Knochblauchzehen, gepresst
+    - 1 Esslöffel Soya Sauce
+    - 1 Teelöffel sugar
+    - 1 Teelöffel Gochugaru
+    - ½ Teelöffel Salz
